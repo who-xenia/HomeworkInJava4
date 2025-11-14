@@ -7,7 +7,7 @@ public class H2_main {
 		
 		boolean E1,E2,E3;
 		
-		int input = 10;
+		int input = 11;
 		
 		switch(input) {
 		case (0):
@@ -25,6 +25,7 @@ public class H2_main {
 		case (11):
 			x=true;
 			y=true;
+			break;
 		default:
 			x=false;
 			y=false;
